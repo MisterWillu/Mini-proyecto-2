@@ -1,0 +1,3 @@
+conda activate tic1
+cd C:\Users\RW Productions\Desktop\Universidad\2024\Semestre 1\TIC 2\MP2\códigos
+pyuic6 -x battle_qt.ui -o battle_qt.py
